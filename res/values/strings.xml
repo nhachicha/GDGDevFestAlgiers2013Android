@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidCodeLabDevFest</string>
+    <string name="action_list">List</string>
+    <string name="hello_world">Uploader une image:</string>
+    <string name="une_inmage_depuis_la_gallery">Depuis la gallery</string>
+    <string name="prendre_une_photo">Depuis la camera</string>
+    <string name="description">description</string>
+    <string name="envoyer">Envoyer</string>
+
+</resources>
